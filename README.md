@@ -22,7 +22,7 @@ This project predicts the **price of laptops** based on their specifications usi
   - Stacking Regressor (Ensemble)  
 
 - **Interactive Frontend:** Built using Streamlit  
-- **Model Comparison:** Evaluates RMSE, MAE, and R² Score  
+- **Model Comparison:** Evaluates MAE and R² Score  
 - **Deployment Ready:** Dockerized for portability  
 
 ---
